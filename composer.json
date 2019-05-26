@@ -1,0 +1,17 @@
+{
+  "name": "jesushatesu/Youla",
+  "description": "parsing Youla for Ads",
+  "license": "dev",
+  "authors": [
+    {
+      "name": "JesusHatesU",
+      "email": "111art.rnd111@gmail.com"
+    }
+  ],
+  "require": {
+    "php" : ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
