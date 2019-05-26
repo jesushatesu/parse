@@ -1,5 +1,5 @@
 {
-  "name": "jesushatesu/Youla",
+  "name": "jesushatesu/youla",
   "description": "parsing Youla for Ads",
   "license": "dev",
   "authors": [
@@ -9,7 +9,8 @@
     }
   ],
   "require": {
-    "php" : ">=5.4.0"
+    "php" : ">=5.4.0",
+    "guzzlehttp/guzzle": "^6.3"
   },
   "autoload": {
     "classmap": ["src"]
