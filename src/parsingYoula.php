@@ -6,8 +6,6 @@
  * Time: 15:28
  */
 
-use jesushatesu;
-
 class parsingYoula
 {
     private $__youlaAdsArr;
