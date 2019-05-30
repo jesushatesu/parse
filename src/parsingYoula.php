@@ -15,7 +15,7 @@ class parsingYoula
     public $__value;
     private $__mysql;
 
-    //конструктор: инициализирует имя файла и массив объявлений
+    //конструктор: инициализирует имя файла, массив объявлений и базу данных
     function __construct($_value, $_mysql, $_fileName = '')
     {
         $this->initialFileName($_fileName);
