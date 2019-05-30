@@ -8,8 +8,6 @@
 
 use jesushatesu;
 
-require '../vendor/autoload.php';
-
 class parsingYoula
 {
     private $__youlaAdsArr;
