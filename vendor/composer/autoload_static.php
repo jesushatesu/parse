@@ -46,7 +46,7 @@ class ComposerStaticInit1c345b86b4606480843579f4a028b18b
     );
 
     public static $classMap = array (
-        'jesushatesu\\parsingYoula' => __DIR__ . '/../..' . '/src/parsingYoula.php',
+        'parsingYoula' => __DIR__ . '/../..' . '/src/parsingYoula.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

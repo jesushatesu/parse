@@ -8,10 +8,6 @@
       "email": "111art.rnd111@gmail.com"
     }
   ],
-  "require": {
-    "php" : ">=5.4.0",
-    "guzzlehttp/guzzle": "^6.3"
-  },
   "autoload": {
     "classmap": ["src"]
   }
